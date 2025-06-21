@@ -47,7 +47,6 @@ If you use SepU-Net in your research, please cite:
 
 ---
 
-Bạn có thể tùy chỉnh thêm để phù hợp với cấu trúc repo hiện tại (nếu bạn gửi nội dung thư mục, mình có thể cập nhật thêm phần "Repository Contents"). Nếu cần bản tiếng Việt cũng có thể cung cấp.
 
 ## Requirements  
 - Python 3.8+, TensorFlow 2.9+  
